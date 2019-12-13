@@ -4,12 +4,9 @@ import "./style.css";
 function PuppyCard(props) {
   return (
     <div className="card">
-      <div className="img-container">
+      <div className="img-container" onClick={() => props.removePuppy(props.id)}>
         <img alt={props.name} src={props.image} />
       </div>
-      <span onClick={() => props.removePuppy(props.id)} className="remove">
-        𝘅
-      </span>
     </div>
   );
 }

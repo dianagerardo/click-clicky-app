@@ -27,10 +27,7 @@ class App extends Component {
             removePuppy={this.removePuppy}
             id={puppy.id}
             key={puppy.id}
-            name={puppy.name}
             image={puppy.image}
-            occupation={puppy.occupation}
-            location={puppy.location}
           />
         ))}
       </Wrapper>
