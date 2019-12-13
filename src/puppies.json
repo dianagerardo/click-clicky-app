@@ -1,0 +1,85 @@
+[
+  {
+    "id": 1,
+    "name": "Bulldog",
+    "image": "https://i.pinimg.com/236x/6c/32/de/6c32de5eaf81317f2223a862df4f0068--christmas--christmas-presents.jpg",
+    "occupation": "Fry Cook",
+    "location": "A Pineapple Under the Sea"
+  },
+  {
+    "id": 2,
+    "name": "Frenchie",
+    "image": "https://i.pinimg.com/originals/36/51/66/365166b81326ee48435214df4e785ec3.jpg",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 3,
+    "name": "Pug",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF8gupaQ5DKRx91LYxH1wbelhklt4bLIXMwkw6hPcnNXPSPRzlpw&s",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
+  },
+  {
+    "id": 4,
+    "name": "Beagle",
+    "image": "https://image.spreadshirtmedia.com/image-server/v1/compositions/T842A2PA3667PT17X0Y61D1013042025FS2791/views/1,width=650,height=650,appearanceId=2,backgroundColor=a4f8f8/beagle-santa-baby-bodysuit-features-a-adorable-beagle-dog-wearing-holiday-apparel-and-a-santa-hat-while-holding-a-candy-cane-a-christmas-design-by.jpg",
+    "occupation": "Boy Genius",
+    "location": "A Secret Laboratory"
+  },
+  {
+    "id": 5,
+    "name": "Boston Terrier",
+    "image": "http://l7zjv297jp426vwpz2h6nn5f.wpengine.netdna-cdn.com/wp-content/uploads/2013/12/sori-boston-terrier-christmas.jpg",
+    "occupation": "A Cowardly Dog",
+    "location": "Nowhere, Kansas"
+  },
+  {
+    "id": 6,
+    "name": "Terrier",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdkesUEwpO2njCBRq7LrShulBPJ3-VJvHCARJtv0tD4rMh4_v-ww&s",
+    "occupation": "Student",
+    "location": "Bluffington"
+  },
+  {
+    "id": 7,
+    "name": "Dalmatian",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFHP8LTl4vhV9gA7lRrc_Ezsm5Zp_hcn-txmRmvYBs9W64Qi84&s",
+    "occupation": "Looney Toon",
+    "location": "A Rabbit Burrow"
+  },
+  {
+    "id": 8,
+    "name": "Boxer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB8zQONzynAF3VTZOKAl2LChpH32CPXztAnE3mgJMqeRJwY8e5dg&s",
+    "occupation": "Ladies Man",
+    "location": "Aron City"
+  },
+  {
+    "id": 9,
+    "name": "Weiner Dog",
+    "image": "https://i.pinimg.com/originals/ab/af/15/abaf154237e89330eaaa3423a4153a94.jpg",
+    "occupation": "Adventurer",
+    "location": "California"
+  },
+  {
+    "id": 10,
+    "name": "Corgi",
+    "image": "https://i.pinimg.com/originals/e7/98/4f/e7984f2e3a4371c791c0f3423da183d9.jpg",
+    "occupation": "Cashier",
+    "location": "O-Town, California"
+  },
+  {
+    "id": 11,
+    "name": "Cattle Dog",
+    "image": "https://i.pinimg.com/originals/bb/58/4a/bb584a955e7c0125ccc44a762ce55b5f.jpg",
+    "occupation": "Superhero",
+    "location": "Earth"
+  },
+  {
+    "id": 12,
+    "name": "Mountain Dog",
+    "image": "https://gfp-2a3tnpzj.stackpathdns.com/wp-content/uploads/2018/11/border-collie-puppy-in-santa-outfit-next-to-a-sleigh-600x600.jpg",
+    "location": "Under a City Dump"
+  }
+]
